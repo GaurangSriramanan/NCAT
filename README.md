@@ -1,6 +1,6 @@
 # Toward Efficient Robust Training against Union of $\ell_p$ Threat Models
 
-This repository contains code for the implementation of our NeurIPS 2022 paper [Toward Efficient Robust Training against Union of $\ell_p$ Threat Models](https://openreview.net/forum?id=6qdUJblMHqy). 
+This repository contains code for the implementation of our NeurIPS 2022 paper [Toward Efficient Robust Training against Union of Lp Threat Models](https://openreview.net/forum?id=6qdUJblMHqy). 
 
 Recording for the NeurIPS Virtual Conference: [[video](https://neurips.cc/virtual/2022/poster/52908)]
 
