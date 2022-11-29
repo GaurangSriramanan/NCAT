@@ -40,7 +40,7 @@ Trained model checkpoints can be found [here](https://drive.google.com/drive/fol
 
 
 ## Summarized Results on CIFAR-10
-Here we present a brief summary of results on the CIFAR-10 dataset obatined on using the ResNet-18 architecture. For more details, please refer to the main [paper](https://openreview.net/forum?id=6qdUJblMHqy). Robust evaluations are presented under the constraint sets given by the $\ell_1$ ball of radius $12$, $\ell_2$ ball of radius $0.5$ and $\ell_{\infty}$ ball of radius $8/255$ comprising the individual threat models of interest, along with worst-case and average-case performance under the union of these threat models.
+Here we present a brief summary of results on the CIFAR-10 dataset obtained using the ResNet-18 architecture. For more details, please refer to the main [paper](https://openreview.net/forum?id=6qdUJblMHqy). Robust evaluations are presented under the constraint sets given by the $\ell_1$ ball of radius $12$, $\ell_2$ ball of radius $0.5$ and $\ell_{\infty}$ ball of radius $8/255$ comprising the individual threat models of interest, along with worst-case and average-case performance under the union of these threat models.
 
 
 
